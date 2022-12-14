@@ -25,3 +25,6 @@
 <img src="https://img.shields.io/badge/Notion-F5F5F0?style=flat-square&logo=Notion&logoColor=000000"/></a>
 <img src="https://img.shields.io/badge/Mattermost-0058CC?style=flat-square&logo=Mattermost&logoColor=white"/></a>
 </p>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dpfls3433)](https://solved.ac/dpfls3433)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=dpfls3433&theme=warm)
