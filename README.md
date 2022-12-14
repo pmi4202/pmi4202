@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yerin%20Pyeon&fontSize=90&animation=fadeIn" />
-</br>
+
 <div align=center>
-  
+ 
 <h3>🔎 Social</h3>
 <a href="https://yerinpy73.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-F5F5F0?style=flat-square&logo=Tistory&logoColor=black&link=https://yerinpy73.tistory.com/"/></a>
 </br>
@@ -27,6 +27,8 @@
 <img src="https://img.shields.io/badge/Notion-F5F5F0?style=flat-square&logo=Notion&logoColor=000000"/></a>
 <img src="https://img.shields.io/badge/Mattermost-0058CC?style=flat-square&logo=Mattermost&logoColor=white"/></a>
 </p>
+
+<br>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dpfls3433)](https://solved.ac/dpfls3433)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dpfls3433&theme=warm)
