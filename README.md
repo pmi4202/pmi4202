@@ -48,15 +48,27 @@
 ## My Projects
 
 ### 🏠 Happy House
-📎github : https://github.com/pmi4202/APT_Sale
-<img src="https://github.com/pmi4202/pmi4202/blob/main/happyhouse_info.png?raw=true" width="100%"/>
+- 📎github : https://github.com/pmi4202/APT_Sale
+<img src="https://github.com/pmi4202/pmi4202/blob/main/happyhouse_info.png?raw=true"/>
 
-### Sduty
+### ✏️ Sduty
+- 📎github : https://github.com/pmi4202/Sduty
+<img src="https://github.com/pmi4202/pmi4202/blob/main/sduty_info.png?raw=true"/>
 
-### 손말
+### 🤟 손말
+- 📎github : https://github.com/pmi4202/Sonmal
+<img src="https://github.com/pmi4202/pmi4202/blob/main/sonmal_info.png?raw=true"/>
 
-### Sduty+
+### ✏️ Sduty+
+- 📎github : https://github.com/pmi4202/SdutyPlus
+- 🔽 playstore : https://play.google.com/store/apps/details?id=com.d205.sdutyplus&hl=ko
 
+<img src="https://github.com/pmi4202/pmi4202/blob/main/sdutyplus_info.png?raw=true"/>
 
-
-
+---
+## 📖 Education
+|#|content|
+|------| ---------------------------------|
+|2022.07|정보처리기사 자격증 취득|
+|2022.01~2022.12|삼성 청년 소프트웨어 아카데미 SSAFY 7기|
+|2020.01~2021.12|멋쟁이 사자처럼 7기 & 8, 9기 운영진|
