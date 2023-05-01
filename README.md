@@ -1,12 +1,20 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yerin%20Pyeon&fontSize=90&animation=fadeIn" />
 
+### 👋 Hi, I'll create convenience and pleasure in people's daily lives.
+ 안녕하세요, 저는 일상에 편리함과 즐거움을 만드는 개발자가 되고 싶습니다.
+- 📧 Email: pmi4202@naver.com
+- 📚 Blog : https://yerinpy73.tistory.com/
+
+---
+<!-- *************************기술 스택************************* -->
 <div align=center>
- 
+<!--
 <h3>🔎 Social</h3>
 <a href="https://yerinpy73.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-F5F5F0?style=flat-square&logo=Tistory&logoColor=black&link=https://yerinpy73.tistory.com/"/></a>
 </br>
+-->
 
-<h3>🔧 Tech Stack</h3>
+<h3>🔧 Main Tech Stack</h3>
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
@@ -34,4 +42,19 @@
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dpfls3433&theme=warm)
 
 </div>
+
+---
+<!-- *************************프로젝트************************* -->
+## My Projects
+
+### 🏠 Happy House 
+
+### Sduty
+
+### 손말
+
+### Sduty+
+
+
+
 
