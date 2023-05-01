@@ -1,74 +1,79 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yerin%20Pyeon&fontSize=90&animation=fadeIn" />
-
-### 👋 Hi, I'll create convenience and pleasure in people's daily lives.
- 안녕하세요, 저는 일상에 편리함과 즐거움을 만드는 개발자가 되고 싶습니다.
-- 📧 Email: pmi4202@naver.com
-- 📚 Blog : https://yerinpy73.tistory.com/
-
----
-<!-- *************************기술 스택************************* -->
-<div align=center>
-<!--
-<h3>🔎 Social</h3>
-<a href="https://yerinpy73.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-F5F5F0?style=flat-square&logo=Tistory&logoColor=black&link=https://yerinpy73.tistory.com/"/></a>
-</br>
--->
-
-<h3>🔧 Main Tech Stack</h3>
-<p>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></br>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>
-</p>
-</br>
-
-<h3>👨‍👩‍👧 Cowork Tools</h3>
-<p>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira Software&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Notion-F5F5F0?style=flat-square&logo=Notion&logoColor=000000"/></a>
-<img src="https://img.shields.io/badge/Mattermost-0058CC?style=flat-square&logo=Mattermost&logoColor=white"/></a>
-</p>
-
-<br>
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dpfls3433)](https://solved.ac/dpfls3433)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=dpfls3433&theme=warm)
-
-</div>
-
----
-<!-- *************************프로젝트************************* -->
-## My Projects
-
-### 🏠 Happy House
-- 📎github : https://github.com/pmi4202/APT_Sale
-<img src="https://github.com/pmi4202/pmi4202/blob/main/happyhouse_info.png?raw=true"/>
-
-### ✏️ Sduty
-- 📎github : https://github.com/pmi4202/Sduty
-<img src="https://github.com/pmi4202/pmi4202/blob/main/sduty_info.png?raw=true"/>
-
-### 🤟 손말
-- 📎github : https://github.com/pmi4202/Sonmal
-<img src="https://github.com/pmi4202/pmi4202/blob/main/sonmal_info.png?raw=true"/>
-
-### ✏️ Sduty+
-- 📎github : https://github.com/pmi4202/SdutyPlus
-- 🔽 playstore : https://play.google.com/store/apps/details?id=com.d205.sdutyplus&hl=ko
+# 🤟 Sduty+
+**🌐 [Explore Repository](https://github.com/pmi4202/SdutyPlus)**<br>
 
 <img src="https://github.com/pmi4202/pmi4202/blob/main/sdutyplus_info.png?raw=true"/>
 
----
-## 📖 Education
-|#|content|
-|------| ---------------------------------|
-|2022.07|정보처리기사 자격증 취득|
-|2022.01~2022.12|삼성 청년 소프트웨어 아카데미 SSAFY 7기|
-|2020.01~2021.12|멋쟁이 사자처럼 7기 & 8, 9기 운영진|
+<details>
+  <summary>시스템구조도</summary>
+  <img src="https://user-images.githubusercontent.com/49026286/202906377-f1317e67-ebb5-4aef-a444-806d1eee1bab.png"/>
+</details>
+
+- 타이머로 공부시간을 측정하고, 리포트에 수행한 업무를 기록할 수 있습니다.
+- 공부한 내용은 다양한 템플릿을 활용하여, 다른 사람들과 공유할 수 있습니다.
+
+<br>
+
+
+## 💻 담당 업무
+- 기획
+- DB, API 설계
+- 이전 프로젝트 복구 : maven to gradle, DB변경
+- [SpringBoot] 리포트 API: CRUD
+- [SpringBoot] 타임라인 API: CRUD, 페이징, 이미지 파일 처리
+- [SpringBoot] Exception Handling
+- [SpringBoot] Querydsl 최적화 및 JMeter 부하 테스트
+- [DevOps] 자동 배포: Docker, Jenkins, Gitlab
+- [DevOps] DB 세팅: MariaDB설치, root계정 변경
+- [DevOps] 보안: SSL
+- [DevOps] Docker 컨테이너 간 네트워크 연결
+
+**유지보수**
+
+- [DevOps] AWS 재배포
+- [SpringBoot] 테스트 계정 자동 생성
+<br>
+
+## 💡 성장 스토리
+
+### 🛠️ 기술
+- **querydsl 개선**
+  - 게시물 조회 시, 게시글을 최신 순으로 내림차순 기준을 PK로 변경
+  - 중복 여부 확인 시, 조회 결과가 1이상으로 확인하는 쿼리를 
+  - 사용한 테스트 : JMeter
+  - 확인 결과 처리량이 1.4배 향상됨
+- **infra 개선**
+  - 서버에서 DB로 도메인 주소로 접근하여, DNS 서버를 거치는 시간 낭비가 있었음
+  - Docker Network를 생성하여, 서버 내부에서 직접 접근하도록 수정
+- **동시성 문제로 중복 아이디 생성**
+  - **문제상황** : 동시에 테스트 계정 생성을 요청하면서, 중복 아이디가 생성됨
+  - **고민 및 시도 과정**
+    - 동시성 문제로 접근
+      |해결책|단점|
+      |-----|:------:|
+      |JPA락|Insert를 통과시키며, User가 연관관계 주인이 아닌 연관관계가 없어 적용 불가|
+      |Transaction 격리 수준을 높임|DeadLock 발생|
+      |synchronized|단일 서버에서만 동작하며, 동시성을 막는 행위는 서버 성능을 저하시킴|
+   - **최종 해결 방안**
+     - 랜덤 문자열 생성 라이브러리로 중복 발생률을 줄임
+     - Column에 unique속성을 부여하여 DB에서 Exception발생하여 Rollback
+- **배포할 때, 유의할 점**
+  - DB 보안을 위해, root계정값 및 port번호 변경
+- **Querydsl**
+  - 복잡한 query 오류를 compile time에 확인 가능
+- **Exception Handling**
+  - 클린 코드와 신뢰성 있는 운영을 위해 커스텀 예외를 사용
+  ```java
+   {
+     "status": 400,
+     "code": "G004",
+     "message": "존재하지 않는 직업입니다."
+   }
+  ```
+- **Lombok 활용**
+  - DTO, Entity는 @NoargsConstructor(AccessLevel.PROTECTED)로 의미없는 객체 생성을 막음
+    
+### 👏 협업
+- **코드 리뷰**
+  - Github의 PR 탬플릿을 만들어 내용을 공유
+  - Merge전에 코드를 보며, 함께 토론함으로써 성
+
