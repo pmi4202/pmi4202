@@ -47,7 +47,8 @@
 <!-- *************************프로젝트************************* -->
 ## My Projects
 
-### 🏠 Happy House 
+### 🏠 Happy House
+<img src="https://github.com/pmi4202/pmi4202/blob/main/happyhouse_info.png?raw=true" width="100%"/>
 
 ### Sduty
 
