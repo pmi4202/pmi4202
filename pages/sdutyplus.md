@@ -75,5 +75,6 @@
 ### 👏 협업
 - **코드 리뷰**
   - Github의 PR 탬플릿을 만들어 내용을 공유
-  - Merge전에 코드를 보며, 함께 토론함으로써 성
+  - Merge전에 코드를 보며, 함께 토론함으로써 성장
+  <img src="https://github.com/pmi4202/pmi4202/blob/main/pages/sdutyplus_pr.png?raw=true"/>
 
