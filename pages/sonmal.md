@@ -3,6 +3,10 @@
 
 <img src="https://github.com/pmi4202/pmi4202/blob/main/sonmal_info.png?raw=true"/>
 
+<details>
+  <summary>시스템구조도</summary>
+  <img src="https://user-images.githubusercontent.com/49026286/199017240-4da672b2-7141-4ccf-bb4c-e80bad827435.png"/>
+</details>
 
 - 한국 수어와 다른 한국어 + 구화/필담만으로 힘든 소통을 보조합니다.
 - 수어가 익숙한 사람들을 위한 수어 번역 제공, 한국어가 익숙한 사람들을 위한 TTS+STT를 제공합니다.
