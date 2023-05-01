@@ -57,10 +57,12 @@
 <img src="https://github.com/pmi4202/pmi4202/blob/main/sduty_info.png?raw=true"/>
 
 ### 🤟 손말
+- ⭐details : https://github.com/pmi4202/pmi4202/blob/main/pages/sonmal.md
 - 📎github : https://github.com/pmi4202/Sonmal
 <img src="https://github.com/pmi4202/pmi4202/blob/main/sonmal_info.png?raw=true"/>
 
 ### ✏️ Sduty+
+- ⭐details : https://github.com/pmi4202/pmi4202/blob/main/pages/sdutyplus.md
 - 📎github : https://github.com/pmi4202/SdutyPlus
 - 🔽 playstore : https://play.google.com/store/apps/details?id=com.d205.sdutyplus&hl=ko
 
