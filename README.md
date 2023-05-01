@@ -52,6 +52,7 @@
 <img src="https://github.com/pmi4202/pmi4202/blob/main/happyhouse_info.png?raw=true"/>
 
 ### ✏️ Sduty
+- ⭐details : https://github.com/pmi4202/pmi4202/blob/main/pages/sduty.md
 - 📎github : https://github.com/pmi4202/Sduty
 <img src="https://github.com/pmi4202/pmi4202/blob/main/sduty_info.png?raw=true"/>
 
