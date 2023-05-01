@@ -1,8 +1,8 @@
 # ✏️ Sduty
+**🌐 [Explore Repository](https://github.com/pmi4202/Sduty)**<br>
 
 <img src="https://github.com/pmi4202/pmi4202/blob/main/sduty_info.png?raw=true"/>
 
-**[Explore Repository](https://github.com/pmi4202/Sduty)**<br>
 
 - 타임라인 : 공부한 기록을 다른 사람들과 공유할 수 있어요.
 - 타이머&리포트 : 공부한 시간을 측정하고, 나만의 리포트를 만들 수 있어요.
@@ -15,7 +15,7 @@
 - [MySQL] DB 설계 + Trigger 작성
    - <details>
          <summary>ERD</summary>
-         <img src = "https://github.com/pmi4202/APT_Sale/blob/master/happyhouse_erd.png?raw=true"/>
+         <img src="https://github.com/pmi4202/pmi4202/blob/main/sduty_db.png?raw=true"/>
    </details>
         
 - API 설계
@@ -32,6 +32,9 @@
   - MySQL 공식 문서에서 CASCADE를 통한 삭제로는 Trigger가 발생하지 않는 것을 파악
   - Trigger를 모두 없애고, Spring 로직으로 구현
   - 추가적으로 효율적인 설계를 위해, 추측이 아닌 수치적으로 확인하며 개선해야 함을 깨달음
+- JPA, findById 올바르지 않은 결과 반환 문제
+   - DB의 컬럼명을 'id'로 사용했을 때, JPA에서id를 PK로 해석하여 문제 발생
+   - searchByid와 같이 'id'를 소문자로 작성하거나 컬럼명을 변경
 - Quartz Scheduler 사용
   - 각 객체마다 schedule을 저장, 실행, 검색, 정지가 가능해야 하기 때문에, Spring이 제공하는 @Scheduled로는 구현 불가능
   - Quartz를 사용해서, schedule을 저장, 검색이 가능
@@ -39,5 +42,11 @@
   
 ### 👏 협업
 - API 문서 체계화
+   - 각 API마다 method, uri, parameter, 반환값을 설계
+   - 빠트린 기능이 없는지 미리 점검하고, 개발에 집중
+   - Frontend와 Backend간의 원활한 소통
 - Agile 방법으로 빠르게 협업
+   - 하루 시작과 끝에 스크럼을 진행
+   - Jira를 활용하여 실시간으로 업무 사항 확인
+   - 서로의 업무를 고려하여, 일의 우선순위를 정함으로써 빠르게 진행
 
