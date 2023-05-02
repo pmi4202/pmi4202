@@ -52,6 +52,5 @@
   <img src="https://github.com/pmi4202/pmi4202/blob/main/pages/sonmal_dev_articles.png?raw=true" width="60%"/>
 - **API 명세서**
   - API설계에 요청, 응답을 상세히 작성
-  <img src="https://github.com/pmi4202/pmi4202/blob/main/pages/sonmal_api.png?raw=true" width="80%"/>
-  <img src="https://github.com/pmi4202/pmi4202/blob/main/pages/sonmal_api2.png?raw=true" width="80%"/>
+  
 
