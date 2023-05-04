@@ -25,6 +25,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>
 </p>
+*Exprience : Vue.js, Django, Android(Java)
 </br>
 
 <h3>👨‍👩‍👧 Cowork Tools</h3>
